@@ -6,6 +6,8 @@ The following are the solved leetcode problems
 | 1 | Two Sum |  | Easy |
 | 2 | Add Two Numbers | [Java](AddTwoNumbers.java) | Medium |
 | 9 | Palindrome Number |  | Easy |
+| 58 | Length of Last Word | [JavaScript](LengthOfLastWord.js) | Easy |
+
 
 
 
