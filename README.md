@@ -2,7 +2,7 @@
 The following are the solved leetcode problems
 | # | Title  | Solution | Difficulty |
 | - | ------ | -------- | ---------- |
-| 294 | Decode String | [Java](DecodeString.java) | Medium |
+| 394 | Decode String | [Java](DecodeString.java) | Medium |
 | 1 | Two Sum | [Java](TwoSum.java)  | Easy |
 | 2 | Add Two Numbers | [Java](AddTwoNumbers.java) | Medium |
 | 9 | Palindrome Number | [Java](PalindromeNumber.java) | Easy |
